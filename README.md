@@ -9,9 +9,9 @@ I am actively seeking roles in **Software Engineering** and **AI Consulting** at
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Programming Languages:** Python, MATLAB
-* **AI & Computer Vision:** Object Detection, Machine Learning algorithms, Swarm Intelligence (PSO)
-* **Control Systems:** Digital PID Controllers, Discrete Event Systems (DES), Supervisory Control
+* **Programming & Libraries:** Python (NumPy, Matplotlib), MATLAB
+* **Robotics & Computer Vision:** Image-Based Visual Servoing (IBVS), Pinhole Camera Models & FoV Projection, Spatial Kinematics & Quaternions, Rigid Body Transformations, Object Detection
+* **Control Systems & AI:** Swarm Intelligence (PSO), Digital PID Controllers, Interaction Matrices & Pseudoinverse Control, Discrete Event Systems (DES), Supervisory Control
 * **Tools & Technologies:** Node-RED, Modbus TCP, Git/GitHub, IoT System Simulation
 
 ---
