@@ -19,6 +19,7 @@ I am actively seeking roles in **Software Engineering** and **AI Consulting** at
 ### 📂 Featured Work
 * 🧠 **AI-Driven Industrial Control:** Digital control system optimization for hydraulic motors bridging Classical Control Theory (Tustin, PID) with Swarm Intelligence (PSO).
 * ⚙️ **IoT Dashboard & Real-Time Monitoring:** Integrated Modbus Slave with Node-RED for real-time temperature data acquisition and automated alarm triggering.
+*  🚁 **Robotic Vision for UAVs:** [Image-Based Visual Servoing (IBVS) control algorithm](https://github.com/Serts1/UAV-Visual-Servoing) enabling autonomous drone alignment over ground targets using dynamic interaction matrices.
 * 🚁 *(Coming Soon)* **Robotic Vision for UAVs:** Perception-to-Action systems utilizing image-based visual servoing and quaternions for autonomous drones.
 
 ---
