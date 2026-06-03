@@ -23,6 +23,7 @@ I am actively seeking roles in **Software Engineering** and **AI Consulting** at
 * 🚁 **Robotic Vision for UAVs:** [Image-Based Visual Servoing (IBVS) control algorithm](https://github.com/Serts1/UAV-Visual-Servoing) enabling autonomous drone alignment over ground targets using dynamic interaction matrices.
 * 🧭 **Spatial Mathematics:** [3D Robotic Kinematics with Quaternions](https://github.com/Serts1/3D-Robotic-Kinematics) - Demonstrating rigid body transformations and custom quaternion algebra for path generation.
 * 🚁 Object Detection for UAVs: [Real-time object detection using YOLOv8](https://github.com/Serts1/YOLOv8-UAV-Detection), benchmarking hyperparameter configurations (optimizers, image sizes, epochs) for autonomous navigation tasks.
+*  🧮 **Digital Control Algorithms:** [Continuous-to-discrete system translation](https://github.com/Serts1/discretization_methods) implementing fundamental numerical methods (Tustin, Euler) from scratch, alongside exact state-space discretization and closed-loop digital PID control for an F-4E aircraft.
 * 📸 **Computer Vision Math:** [Pinhole Camera Model & FoV Projection](https://github.com/Serts1/Camera-Projection-FoV) - Simulating 3D-to-2D spatial projections using intrinsic/extrinsic matrices and homogeneous coordinates.
 
 ---
