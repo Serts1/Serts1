@@ -25,6 +25,7 @@ I am actively seeking roles in **Software Engineering** and **AI Consulting** at
 * 🚁 Object Detection for UAVs: [Real-time object detection using YOLOv8](https://github.com/Serts1/YOLOv8-UAV-Detection), benchmarking hyperparameter configurations (optimizers, image sizes, epochs) for autonomous navigation tasks.
 *  🧮 **Digital Control Algorithms:** [Continuous-to-discrete system translation](https://github.com/Serts1/discretization_methods) implementing fundamental numerical methods (Tustin, Euler) from scratch, alongside exact state-space discretization and closed-loop digital PID control for an F-4E aircraft.
 *  🏭 **Supervisory Control & Edge Computing:** [Discrete Event System (DES) implementation via MQTT](https://github.com/Serts1/IIoT-Machine-Monitoring) acting as an IIoT edge gateway for a PLC, featuring real-time event filtering, state machine logic, and robust fault tolerance.
+* 🚦 **Supervisory Control & Edge Computing:** [Discrete Event System (DES) logic via MQTT](https://github.com/Serts1/IIoT-Supervisory-Control) acting as an IIoT edge gateway for a PLC, featuring real-time event filtering, state machine transitions, and robust fault tolerance.
 * 📸 **Computer Vision Math:** [Pinhole Camera Model & FoV Projection](https://github.com/Serts1/Camera-Projection-FoV) - Simulating 3D-to-2D spatial projections using intrinsic/extrinsic matrices and homogeneous coordinates.
 
 ---
