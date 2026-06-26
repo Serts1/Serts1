@@ -31,6 +31,7 @@ I am actively seeking roles in **Software Engineering** and **AI Consulting** at
 ---
 
 ### 📫 How to reach me
-Feel free to explore my repositories or reach out to connect! *You can email me directly at: tsivleris11@gmail.com
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serafeim-tsivleris/)
+Feel free to explore my repositories or reach out to connect!
+* 📧 Email me directly at: tsivleris11@gmail.com
+* 💼 Connect with me on: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serafeim-tsivleris/)
